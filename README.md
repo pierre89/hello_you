@@ -1,2 +1,3 @@
 # hello_you
-learn how to use github to contribute code to remote projects.
+Hello guys!
+I like code and i am beginning my journey of becoming a greate coder(developer).
